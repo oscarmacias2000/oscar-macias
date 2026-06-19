@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador apasionado por la tecnología y la innovación. Me especializo en [tu especialidad] y disfruto creando soluciones que resuelven problemas reales.
+Soy un desarrollador apasionado por la tecnología y la innovación. Me especializo en [backend] y disfruto creando soluciones que resuelven problemas reales.
 
 - 🎯 **Actualmente:** [Lo que estás haciendo ahora]
 - 🌱 **Aprendiendo:** [Tecnologías que estás aprendiendo]
@@ -105,4 +105,4 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Me especial
 
 ---
 
-⭐️ De [Tu Nombre](https://github.com/[tu-usuario])
+⭐️ De [Oscar Antonio Macias Lopez](https://github.com/[oscarmacias2000])
