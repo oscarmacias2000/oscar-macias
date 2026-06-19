@@ -6,11 +6,11 @@
 
 Soy un desarrollador apasionado por la tecnología y la innovación. Me especializo en [backend] y disfruto creando soluciones que resuelven problemas reales.
 
-- 🎯 **Actualmente:** [Lo que estás haciendo ahora]
-- 🌱 **Aprendiendo:** [Tecnologías que estás aprendiendo]
-- 💬 **Pregúntame sobre:** [Temas en los que eres experto]
-- 📫 **Contacto:** [tu-email@dominio.com]
-- ⚡ **Dato curioso:** [Algo interesante sobre ti]
+-  **Actualmente:** [enfocado en blockshain y una app moderna]
+-  **Aprendiendo:** [ruby, metasploit,tshark]
+-  **Pregúntame sobre:** [ficcion,libros]
+-  **Contacto:** [oscarantoniomacias2000@gmail.com]
+-  **Dato curioso:** [me gustan los gatos y perros]
 
 ## 🛠️ Tecnologías y herramientas
 
